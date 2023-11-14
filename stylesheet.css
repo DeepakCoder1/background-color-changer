@@ -1,0 +1,19 @@
+.container{
+    width:1000px;
+    display: flex;
+    background-color: white;
+    padding: 10px;
+}
+
+.box{
+    background-color: brown;
+    flex-basis: 20%;
+    height: 150px;
+    margin-left: 5px;
+}
+
+button{
+    background-color: blue;
+    padding: 15px;
+    color: aliceblue;
+}

@@ -1,0 +1,1 @@
+1. there should be ataleast 10 box on the web page and an button to change there background when ew clicked on the button.
